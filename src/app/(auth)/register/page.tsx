@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useFormState, useFormStatus } from 'react-dom';
+import { useActionState, useFormStatus } from 'react';
 import { register } from '@/lib/actions';
 
 import { Button } from '@/components/ui/button';
@@ -19,7 +19,7 @@ function SubmitButton() {
 }
 
 export default function RegisterPage() {
-  const [state, formAction] = useFormState(register, null);
+  const [state, formAction] = useActionState(register, null);
 
   return (
     <Card>
