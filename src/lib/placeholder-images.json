@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Abstract musical background",
+      "imageUrl": "https://images.unsplash.com/photo-1584679109391-04da6972a915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY0OTY0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music abstract"
+    },
+    {
+      "id": "album-art-1",
+      "description": "Abstract colorful geometric pattern",
+      "imageUrl": "https://images.unsplash.com/photo-1489648022186-8f49310909a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjY2NDM3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "album-art-2",
+      "description": "A moody landscape with mountains at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1709811574085-f3609d322587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb29keSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NjY2MTgxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "moody landscape"
+    },
+    {
+      "id": "album-art-3",
+      "description": "A vibrant city street at night",
+      "imageUrl": "https://images.unsplash.com/photo-1701515502915-e9ae1854ecf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aWJyYW50JTIwY2l0eXxlbnwwfHx8fDE3NjY1ODUzMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vibrant city"
+    },
+    {
+      "id": "album-art-4",
+      "description": "Close-up of a vintage record player",
+      "imageUrl": "https://images.unsplash.com/photo-1516314774844-26f6888144e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwcmVjb3JkfGVufDB8fHx8MTc2NjYyMDU1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage record"
+    },
+    {
+      "id": "album-art-5",
+      "description": "A serene beach with calm waves",
+      "imageUrl": "https://images.unsplash.com/photo-1618413002870-00a51e1c2bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzZXJlbmUlMjBiZWFjaHxlbnwwfHx8fDE3NjY2NzMxODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "serene beach"
+    },
+    {
+      "id": "album-art-6",
+      "description": "A minimalist black and white portrait",
+      "imageUrl": "https://images.unsplash.com/photo-1552660838-9cc9e5e43cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtaW5pbWFsaXN0JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY2NjkzODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist portrait"
+    },
+    {
+      "id": "album-art-7",
+      "description": "Neon lights reflecting on a wet street",
+      "imageUrl": "https://images.unsplash.com/photo-1534823983341-d4e6e4aa046c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuZW9uJTIwbGlnaHRzfGVufDB8fHx8MTc2NjY0ODYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon lights"
+    },
+    {
+      "id": "album-art-8",
+      "description": "A forest bathed in morning sunlight",
+      "imageUrl": "https://images.unsplash.com/photo-1603346996604-cd77fc859e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb3Jlc3QlMjBzdW5saWdodHxlbnwwfHx8fDE3NjY2MDAwNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest sunlight"
+    },
+    {
+      "id": "album-art-9",
+      "description": "A person dancing at a concert",
+      "imageUrl": "https://images.unsplash.com/photo-1582995309738-aa7a5e962da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBkYW5jaW5nfGVufDB8fHx8MTc2NjY5Mzg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person dancing"
+    },
+    {
+      "id": "album-art-10",
+      "description": "Graffiti on a brick wall",
+      "imageUrl": "https://images.unsplash.com/photo-1508162326105-bb8eac9e4630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmFmZml0aSUyMHdhbGx8ZW58MHx8fHwxNzY2NjcxMzkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graffiti wall"
+    }
+  ]
 }
