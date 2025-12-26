@@ -36,7 +36,3 @@ src
 ├── lib/               # Core application logic, data, types, and utilities
 └── ...
 ```
-
-
-
-The application will be available at
